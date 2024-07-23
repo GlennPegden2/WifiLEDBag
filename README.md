@@ -1,4 +1,4 @@
-So I picked up one of these ( https://www.ebay.co.uk/itm/125280541508 ) awesome 64 x 64 x 256 LED bags and it's better than expect, but as predicticed the app is aweful, so this is my journey to understanding it and building a library to interact with it.
+So I picked up one of these ( https://www.ebay.co.uk/itm/125280541508 ) awesome 64 x 64 x 256 LED bags and it's better than expected, but as predicticed the app is aweful, so this is my journey to understanding it and building a library to interact with it.
 
 What do we know so far
 
